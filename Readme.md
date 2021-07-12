@@ -10,23 +10,23 @@
 
 ## Steps to Download the project: <a name="A1"></a>
 
-> STEP-1 Create a *new folder* on your PC where you want to download this project.
+> STEP-1 Create a **`new folder`** on your PC where you want to download this project.
  
-> STEP-2 Go inside this empty folder and click on the right button, open *git bash Here*
+> STEP-2 Go inside this empty folder and click on the right button, **`open git bash Here`**
 (if you have not downloaded git bash, then [Download](https://git-scm.com/downloads) from here.
 
 > STEP-3 Copy command from below and paste it on git Bash -  
-- $ git clone git@github.com:neelanshijain3111998/DataProject1.git .
+- $ `git clone git@github.com:neelanshijain3111998/DataProject1.git .`
 
 (git *clone ssh key* dot  will paste all files in your folder.)
 
 > STEP-4 Now, Check your folder in that you will get all the files there.
 
-> STEP-5 Open Projectt1.csproj file in visual studio 2019 ([Download](https://code.visualstudio.com/download)) which is present in your folder .
+> STEP-5 Open **`Projectt1.csproj file`** in visual studio 2019 ([Download](https://code.visualstudio.com/download)) which is present in your folder .
 
 ## Steps to run the project: <a name="A2"></a>
 > STEP-1 Click on Debug from the menu bar from visual studio and then click on start without Debugging.
-> Debug->Start without Debugging->press Enter
+- `Debug->Start without Debugging->press Enter`
 
 > STEP-2 On the console window, you will see like this
 
