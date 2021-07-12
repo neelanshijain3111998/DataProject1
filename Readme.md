@@ -1,10 +1,10 @@
 # Data Project 1: Company Master
-In this project, I build a simple command-line application that reads in a CSV file, and perform some aggregation/filtering/grouping functions and print out the results in table format.
+In this project, I build a simple command-line application that reads in a CSV file. I perform some aggregation/filtering/grouping functions and print out the results in table format.
 
-Here are the Steps to Download the project and run the program in visual stdio 2019.
+Here are the steps to download the project and run the program in visual studio 2019.
 >- Create a `new folder` on your computer where you want to download this project. Then open `git bash Here` and run this command 
   `git clone git@github.com:neelanshijain3111998/DataProject1.git .`
->- Then you will get all the files in your folder. Open `Projectt1.csproj` file in visual studio 2019 from this folder. and run the program.
+>- Then, you will get all the files in your folder. Open the `Projectt1.csproj` file in visual studio 2019 from this folder. and run the program.
 >- On the console window, you will see like this  
                                                         ------Data Project 1: Company Master------" <br />
                                                         Enter 1-For TestCase1 <br />
