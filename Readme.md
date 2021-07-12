@@ -13,7 +13,7 @@
 > STEP-1 Create a **`new folder`** on your PC where you want to download this project.
  
 > STEP-2 Go inside this empty folder and click on the right button, **`open git bash Here`**
-(if you have not downloaded git bash, then [Download](https://git-scm.com/downloads) from here.
+(if you have not downloaded git bash, then [Download](https://git-scm.com/downloads) from here.)
 
 > STEP-3 Copy command from below and paste it on git Bash -  
 - $ `git clone git@github.com:neelanshijain3111998/DataProject1.git .`
